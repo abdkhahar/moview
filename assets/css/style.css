@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
-header {
+main {
     background-color: black;
 }
+
+header {}
